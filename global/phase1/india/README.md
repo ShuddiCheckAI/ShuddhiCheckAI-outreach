@@ -13,6 +13,21 @@ This folder supports planning, outreach, and localization for India’s rural he
 - [ ] Language Mapping Draft (Kannada, Hindi, Tamil)
 
 ## 🛠️ Pending Items:
+🗣️ Confirmed Language Rollout – India (Phase I)
+
+ShuddhiCheck AI’s Indian language interface will include:
+
+| Language  | Native Script | Deployment Focus                            |
+|-----------|----------------|---------------------------------------------|
+| Kannada   | ಕನ್ನಡ           | Karnataka PHCs and mobile dashboard pilots  |
+| Tamil     | தமிழ்           | Tamil Nadu regional outreach and UI         |
+| Telugu    | తెలుగు          | AP/Telangana rural workflows                |
+| Malayalam | മലയാളം         | Kerala health compliance workflows          |
+| Hindi     | हिंदी           | Pan-India multilingual support              |
+| Urdu      | اردو            | Minority health access and translation API  |
+
+All UI components will support Unicode rendering and toggling per facility or user group.
+
 - Multilingual UI integration
 - Mobile Health Unit compliance API
 - Partnership outreach tracking
