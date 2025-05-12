@@ -32,7 +32,7 @@ All UI components will support Unicode rendering and toggling per facility or us
 - Mobile Health Unit compliance API
 - Partnership outreach tracking
 
-## 👥 Contacts:
+👥 Contacts:
 For collaboration, demos, or sandbox access:
-📧 info@shuddhicheckai.com  
+📧 info@shuddhicheckai.com | shuddhicheckai@gmail.com
 📱 WhatsApp: +1 (312) 869-0747
