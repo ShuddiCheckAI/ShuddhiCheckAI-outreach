@@ -1,49 +1,34 @@
-# 🇪🇸 Spain – Phase II Readiness
+# ShuddhiCheck AI – Phase II: Spain Readiness
 
-This folder contains compliance planning and localization materials for ShuddhiCheck AI’s expansion into Spain as part of Phase II.
+This folder includes the official readiness brief and strategy overview for ShuddhiCheck AI’s Phase II rollout in Spain.
 
----
+📌 **Key Highlights**
+- Aligned with EU AI Act and GDPR
+- AESIA-regulated compliance frameworks
+- Autonomous regional health authorities (e.g., Catalonia, Madrid, Basque Country)
+- Strong momentum in digital health transformation (Estrategia de Salud Digital)
 
-## 📄 Contents
-
-- **Spain_Compliance_Checklist.pdf**  
-  Detailed checklist covering Spain’s GDPR implementation, Ley Orgánica 3/2018 data laws, National Mental Health Strategy (2022–2026) alignment, and future-proofing beyond 2026.
-
-- **Spain_MentalHealth_Readiness.pdf**  
-  Overview of Spain’s mental health infrastructure, community care models, and cultural considerations for Shuddhi Mental Health integration.
-
-- **Localization Overview**  
-  UI and documentation support for:
-  - Spanish (es_ES)  
-  - Catalan (ca_ES)  
-  - Basque (eu_ES)  
-  - Galician (gl_ES)
-
-- **post_2026_update_tracker.md**  
-  Watchpoints and rollout reminders for post-2026 policy changes.
+📄 [Download PDF Readiness Brief](./ShuddhiCheckAI_PhaseII_Spain_Readiness.pdf)
 
 ---
 
-## 🛠 Key Next Steps
+## 🌐 Language and Regional Considerations (2025)
 
-1. Finalize pilot partnerships with regional health authorities in Madrid & Barcelona  
-2. Configure Codex-assist scripts under `Codex_Assist_Scripts/` for localized code generation  
-3. Schedule quarterly compliance reviews aligned to Spain’s mental health strategy updates  
-4. Prepare GitHub Actions to auto-generate consent and audit logs per Spanish law  
+Spain’s primary official language is **Spanish (Castilian)**. However, the following co-official languages are recognized in specific regions and may influence public health communication or compliance localization:
 
----
+| Language     | Region(s)                            |
+|--------------|--------------------------------------|
+| **Spanish (Castilian)** | All regions (national official language) |
+| **Catalan**             | Catalonia, Valencia, Balearic Islands |
+| **Galician**            | Galicia |
+| **Basque (Euskara)**    | Basque Country, Navarre |
+| **Aranese (Occitan)**   | Val d'Aran (Catalonia) |
 
-## 🌍 Language Support
-
-- ✅ Spanish (es_ES)  
-- ✅ Catalan (ca_ES)  
-- ✅ Basque (eu_ES)  
-- ✅ Galician (gl_ES)
+🔁 Multilingual adaptation may be considered for public dashboards or compliance reports in high-priority regions (Catalonia, Basque Country).
 
 ---
 
-📧 For questions or collaboration:  
-📧 shuddhicheckai@gmail.com  
-📧 info@shuddhicheckai.com
-  
-🌐 [www.shuddhicheckai.com](https://www.shuddhicheckai.com)
+## 🛠️ Next Steps
+- Upload readiness brief PDF
+- Begin AESIA engagement
+- Explore pilot opportunities with Catalonia, Madrid, and Basque Country
