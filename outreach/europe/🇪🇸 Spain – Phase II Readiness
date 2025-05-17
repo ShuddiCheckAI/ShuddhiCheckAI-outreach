@@ -1,0 +1,49 @@
+# 🇪🇸 Spain – Phase II Readiness
+
+This folder contains compliance planning and localization materials for ShuddhiCheck AI’s expansion into Spain as part of Phase II.
+
+---
+
+## 📄 Contents
+
+- **Spain_Compliance_Checklist.pdf**  
+  Detailed checklist covering Spain’s GDPR implementation, Ley Orgánica 3/2018 data laws, National Mental Health Strategy (2022–2026) alignment, and future-proofing beyond 2026.
+
+- **Spain_MentalHealth_Readiness.pdf**  
+  Overview of Spain’s mental health infrastructure, community care models, and cultural considerations for Shuddhi Mental Health integration.
+
+- **Localization Overview**  
+  UI and documentation support for:
+  - Spanish (es_ES)  
+  - Catalan (ca_ES)  
+  - Basque (eu_ES)  
+  - Galician (gl_ES)
+
+- **post_2026_update_tracker.md**  
+  Watchpoints and rollout reminders for post-2026 policy changes.
+
+---
+
+## 🛠 Key Next Steps
+
+1. Finalize pilot partnerships with regional health authorities in Madrid & Barcelona  
+2. Configure Codex-assist scripts under `Codex_Assist_Scripts/` for localized code generation  
+3. Schedule quarterly compliance reviews aligned to Spain’s mental health strategy updates  
+4. Prepare GitHub Actions to auto-generate consent and audit logs per Spanish law  
+
+---
+
+## 🌍 Language Support
+
+- ✅ Spanish (es_ES)  
+- ✅ Catalan (ca_ES)  
+- ✅ Basque (eu_ES)  
+- ✅ Galician (gl_ES)
+
+---
+
+📧 For questions or collaboration:  
+📧 shuddhicheckai@gmail.com  
+📧 info@shuddhicheckai.com
+  
+🌐 [www.shuddhicheckai.com](https://www.shuddhicheckai.com)
