@@ -1,0 +1,44 @@
+# 🇭🇷 ShuddhiCheck AI – Phase II: Croatia Readiness
+
+This folder contains the official readiness brief and rollout strategy for ShuddhiCheck AI’s Phase II expansion into Croatia.
+
+📄 [Download Croatia Readiness Brief (PDF)](./ShuddhiCheckAI_PhaseII_Croatia_Readiness.pdf)
+
+---
+
+## 📌 Key Highlights
+
+- GDPR compliance under AZOP (Croatian Personal Data Protection Agency)
+- Ministry of Health leads eHealth and AI modernization efforts
+- Strong support from EU-backed innovation hubs
+- Bilingual rollout: Croatian required, English supported in pilots
+
+---
+
+## 🏛️ Governance & Innovation Partners
+
+- Ministry of Health – Croatia
+- AZOP – Croatian Personal Data Protection Agency
+- HZJZ – Croatian Institute of Public Health
+- Digital Innovation Hubs Croatia (DIH)
+- Ruđer Bošković Institute
+
+---
+
+## 🌐 Language & Localization
+
+| Language     | Role |
+|--------------|------|
+| **Croatian** | ✅ Required for dashboards, compliance tools, and hospital outreach |
+| **English**  | ✅ Accepted for pilots, demos, and scientific collaboration |
+| **Minority Languages** | 🟡 Optional in localized contexts (not required nationally) |
+
+🟢 English demo kits and Croatian-language dashboards supported for pilot deployments.
+
+---
+
+## 🛠️ Next Steps
+
+- Upload PDF readiness brief
+- Begin outreach to AZOP, HZJZ, and DIH Croatia
+- Prepare risk alert tools and localization for Croatian health systems
