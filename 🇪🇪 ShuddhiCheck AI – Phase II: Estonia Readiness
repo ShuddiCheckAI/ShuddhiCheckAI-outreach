@@ -1,0 +1,45 @@
+# 🇪🇪 ShuddhiCheck AI – Phase II: Estonia Readiness
+
+This folder contains the official readiness brief and rollout strategy for ShuddhiCheck AI’s Phase II expansion into Estonia.
+
+📄 [Download Estonia Readiness Brief (PDF)](./ShuddhiCheckAI_PhaseII_Estonia_Readiness.pdf)
+
+---
+
+## 📌 Key Highlights
+
+- GDPR enforcement via Estonian Data Protection Inspectorate (AKI)
+- Advanced digital health stack: X-Road, DigiDoc, national EHR system
+- Global leader in e-Government and blockchain-backed health records
+- Innovation-friendly environment with English support for demos
+- Estonian required for public rollout; Russian optional (localized use)
+
+---
+
+## 🏛️ Governance & Innovation Partners
+
+- Ministry of Social Affairs – Estonia
+- Estonian Data Protection Inspectorate (AKI)
+- TEHIK – Health and Welfare Information Systems Centre
+- Ministry of Economic Affairs and Communications
+- Connected Health Cluster Estonia
+
+---
+
+## 🌐 Language & Localization
+
+| Language   | Role |
+|------------|------|
+| **Estonian** | ✅ Required for dashboards and health compliance systems |
+| **English**  | ✅ Used in demos, innovation programs, EU collaborations |
+| **Russian**  | 🟡 Optional (regional use in northeast only) |
+
+🟢 Demo kits in English and full rollout in Estonian supported.
+
+---
+
+## 🛠️ Next Steps
+
+- Upload PDF readiness brief
+- Reach out to TEHIK and Ministry of Social Affairs
+- Begin pilot preparation for X-Road integration and dashboard localization
