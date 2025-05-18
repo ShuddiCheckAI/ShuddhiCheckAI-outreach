@@ -1,0 +1,44 @@
+# 🇱🇹 ShuddhiCheck AI – Phase II: Lithuania Readiness
+
+This folder contains the official readiness brief and rollout strategy for ShuddhiCheck AI’s Phase II expansion into Lithuania.
+
+📄 [Download Lithuania Readiness Brief (PDF)](./ShuddhiCheckAI_PhaseII_Lithuania_Readiness.pdf)
+
+---
+
+## 📌 Key Highlights
+
+- GDPR enforcement by VDAI (State Data Protection Inspectorate)
+- Public health digitization led by Ministry of Health and Center of Registers
+- Strong cybersecurity infrastructure for AI risk monitoring
+- Bilingual rollout: Lithuanian required; English accepted in pilots
+
+---
+
+## 🏛️ Governance & Innovation Partners
+
+- Ministry of Health – Lithuania
+- VDAI – State Data Protection Inspectorate
+- Center of Registers
+- Health Information Centre – Institute of Hygiene
+- GovTech Lab Lithuania
+
+---
+
+## 🌐 Language & Localization
+
+| Language       | Role |
+|----------------|------|
+| **Lithuanian** | ✅ Required for dashboards and compliance systems |
+| **English**    | ✅ Accepted for pilot demos, international outreach |
+| **Russian / Polish** | 🟡 Optional in region-specific contexts |
+
+🟢 English demo kits available for GovTech Lab and innovation hubs.
+
+---
+
+## 🛠️ Next Steps
+
+- Upload PDF readiness brief
+- Begin outreach to VDAI, GovTech, and Ministry of Health
+- Localize Lithuanian dashboard and compliance alert system for hospital partners
