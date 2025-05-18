@@ -1,0 +1,46 @@
+# 🇧🇪 ShuddhiCheck AI – Phase II: Belgium Readiness
+
+This folder contains the official readiness brief and expansion plan for ShuddhiCheck AI’s Phase II rollout in Belgium.
+
+📄 [Download Belgium Readiness Brief (PDF)](./ShuddhiCheckAI_PhaseII_Belgium_Readiness.pdf)
+
+---
+
+## 📌 Key Highlights
+
+- Multilingual public health governance (Dutch, French, German)
+- GDPR compliance overseen by APD/GBA (Belgian DPA)
+- EU AI Act integration through FPS Health and Sciensano
+- Cross-regional pilot strategy in Brussels, Flanders, and Wallonia
+- English supported in pilot rollouts, academic hospitals, and innovation settings
+
+---
+
+## 🏛️ Governance & Innovation Partners
+
+- FPS Public Health, Food Chain Safety and Environment
+- Sciensano – Belgian National Institute for Health
+- Belgian Data Protection Authority (APD/GBA)
+- eHealth Platform Belgium
+- Pilot hospitals: UZ Brussel, Saint-Luc University Hospital
+
+---
+
+## 🌐 Language & Localization
+
+| Language | Region       | Status |
+|----------|--------------|--------|
+| **Dutch**   | Flanders     | ✅ Required |
+| **French**  | Wallonia, Brussels | ✅ Required |
+| **German**  | Eastern communities | 🟡 Optional (Phase III) |
+| **English** | Brussels, research/AI pilots | ✅ Supported for pilots |
+
+🟢 Dashboard pilots will be deployed bilingually (Dutch + French). English versions available for demos.
+
+---
+
+## 🛠️ Next Steps
+
+- Upload PDF readiness brief
+- Reach out to Sciensano and FPS Health
+- Begin multilingual pilot dashboard preparation (Dutch + French + English)
