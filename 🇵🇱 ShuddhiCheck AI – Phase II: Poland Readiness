@@ -1,0 +1,44 @@
+# 🇵🇱 ShuddhiCheck AI – Phase II: Poland Readiness
+
+This folder contains the official readiness brief and expansion strategy for ShuddhiCheck AI’s Phase II rollout in Poland.
+
+📄 [Download Poland Readiness Brief (PDF)](./ShuddhiCheckAI_PhaseII_Poland_Readiness.pdf)
+
+---
+
+## 📌 Key Highlights
+
+- GDPR compliance oversight by UODO (Polish Data Protection Authority)
+- National health digitization through CeZ and P1/eZLA platforms
+- Centralized health system coordinated by Ministry of Health and NFZ
+- Language requirement: Polish (mandatory for deployment), English (optional for demos)
+- Ideal pilot zones: Warsaw, Kraków, Łódź, Gdańsk
+
+---
+
+## 🏛️ Governance & Innovation Partners
+
+- Ministry of Health – Poland
+- UODO – Polish Data Protection Authority
+- Center for eHealth (CeZ)
+- National Health Fund (NFZ)
+- Polish Society of Public Health (PTZP)
+
+---
+
+## 🌐 Language & Localization
+
+| Language | Status |
+|----------|--------|
+| **Polish** | ✅ Official language; required for all dashboards, reports, and outreach |
+| **English** | ✅ Allowed for demo kits and technical briefings |
+
+🟢 All final deployment tools will be delivered in Polish, with English options for stakeholder demos.
+
+---
+
+## 🛠️ Next Steps
+
+- Upload PDF readiness brief
+- Initiate outreach to CeZ and Ministry of Health
+- Develop Polish-localized dashboard with GDPR and EU AI Act tagging
