@@ -1,0 +1,41 @@
+# 🇬🇷 ShuddhiCheck AI – Phase II: Greece Readiness
+
+This folder includes the official readiness brief and strategic rollout plan for ShuddhiCheck AI’s Phase II expansion into Greece.
+
+📌 **Key Highlights**
+- Alignment with EU AI Act and GDPR
+- Compliance oversight by the Hellenic Data Protection Authority (HDPA)
+- Supported by national eHealth frameworks (NeHIF, Elevate Greece)
+- Bilingual support (Modern Greek + English) enabled for health system partners
+
+📄 [Download Greece Readiness Brief (PDF)](./ShuddhiCheckAI_PhaseII_Greece_Readiness.pdf)
+
+---
+
+## 🏛️ National & Regional Health Governance
+
+- 🏥 **EOPYY** – National Organization for the Provision of Health Services
+- 🏛 **Ministry of Health – Greece** – National regulatory authority
+- 🧠 **HDPA** – GDPR and AI governance body
+- 🌐 **Ministry of Digital Governance** – Public sector AI policy coordination
+- 🧬 **HDHC** – Hellenic Digital Health Cluster
+
+---
+
+## 🌐 Language & Localization Strategy
+
+| Language        | Status           |
+|------------------|------------------|
+| **Modern Greek** | ✅ Official & required for public rollout |
+| **English**       | ✅ Widely used in digital health and innovation sectors |
+| **Bilingual Support** | ✅ Recommended for outreach, demos, and stakeholder materials |
+
+ShuddhiCheck AI supports bilingual platform adaptation (Modern Greek + English) for maximum accessibility in Greece’s healthcare system.
+
+---
+
+## 🛠️ Next Steps
+
+- Upload the PDF brief to this folder
+- Begin outreach to HDPA and the Ministry of Digital Governance
+- Localize dashboard mockups and compliance features for Greek stakeholders
