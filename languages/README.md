@@ -18,35 +18,37 @@ Each folder contains:
 - All files use **snake_case keys** (e.g., `compliance_status`)
 - Keys must be consistent across all languages
 - Do **not** translate keys — only the values
+- Files must be UTF-8 encoded
+- QA checks are recommended for each translation
 
 ---
 
 ## 🌍 Translations Completed (as of May 2025)
 
-| Language     | Code | Country/Region         |
-|--------------|------|------------------------|
-| English      | en   | Global / Default       |
-| Italian 🇮🇹  | it   | Italy                  |
-| Spanish 🇪🇸  | es   | Spain, LATAM (future)  |
-| Greek 🇬🇷    | el   | Greece, Cyprus         |
-| Polish 🇵🇱   | pl   | Poland                 |
+| Language        | Code | Country/Region         |
+|-----------------|------|------------------------|
+| English         | `en` | Global / Default       |
+| Italian 🇮🇹     | `it` | Italy                  |
+| Spanish 🇪🇸     | `es` | Spain, LATAM (future)  |
+| Greek 🇬🇷       | `el` | Greece, Cyprus         |
+| Polish 🇵🇱      | `pl` | Poland                 |
+| Portuguese 🇵🇹  | `pt` | Portugal               |
+| Romanian 🇷🇴    | `ro` | Romania                |
+| Dutch 🇳🇱       | `nl` | Netherlands            |
+| Croatian 🇭🇷    | `hr` | Croatia                |
+| French 🇫🇷      | `fr` | France, Belgium        |
 
 ---
 
-## 📦 Coming Next
+## 💡 Upcoming (Planned for Summer 2025)
 
-- Portuguese 🇵🇹 → `/pt`
-- Romanian 🇷🇴 → `/ro`
-- Dutch 🇳🇱 → `/nl`
-- Croatian 🇭🇷 → `/hr`
-- French 🇫🇷 → `/fr`
-
----
-
-🧠 Please ensure that new translations:
-- Match the English key structure exactly
-- Are UTF-8 encoded
-- Include native QA or validation where possible
+| Language          | Code |
+|-------------------|------|
+| Lithuanian 🇱🇹     | `lt` |
+| Slovene 🇸🇮         | `sl` |
+| Swedish 🇸🇪         | `sv` |
+| Estonian 🇪🇪        | `et` |
+| Turkish 🇹🇷 (Cyprus) | `tr` |
 
 ---
 
